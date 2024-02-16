@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322185483400",
+    "project_id": "indianpincode-f15d6",
+    "storage_bucket": "indianpincode-f15d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322185483400:android:157cb73a86ba480170fb3d",
+        "android_client_info": {
+          "package_name": "com.example.androidfirebaseassessment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLLCt6C6qwtB5ER7Z4ErMI_qEpHGvJ0NU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
